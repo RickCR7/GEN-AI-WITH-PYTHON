@@ -1,0 +1,49 @@
+# ---- Python Bytecode ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ---- Environments ----
+.venv/
+venv/
+env/
+.env/
+.uv/
+.uv_cache/
+
+# ---- Dependency / Lock Files ----
+*.lock
+uv.lock
+
+# ---- OS / Editor Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Python Packaging ----
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Jupyter / Notebook ----
+.ipynb_checkpoints/
+
+# ---- Logs ----
+*.log
+
+# ---- VSCode ----
+.vscode/
+*.code-workspace
+
+# ---- PyCharm ----
+.idea/
+
+# ---- Local Settings ----
+.env
+.env.*
+*.sqlite3
+
+# ---- Temp ----
+tmp/
+temp/
